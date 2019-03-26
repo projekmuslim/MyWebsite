@@ -1,2 +1,2 @@
 # MyWebsite
-new website
+Got To http://raijin90.github.io/MyWebsite
